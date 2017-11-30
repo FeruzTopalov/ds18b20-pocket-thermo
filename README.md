@@ -4,6 +4,8 @@
 
 ![](ds18b20_tn2313a.jpg) 
 
+Видео: https://www.youtube.com/watch?v=SM6uviFNg3k
+
 ***
 **Содержание:**
 
